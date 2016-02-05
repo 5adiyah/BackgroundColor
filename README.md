@@ -1,1 +1,1 @@
-Visit http://5adiyah.github.io/backgroundcolor/
+Visit http://5adiyah.github.io/BackgroundColor/
