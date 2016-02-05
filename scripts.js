@@ -21,5 +21,4 @@ $(document).ready(function(){
     $("button#green").hide();
   });
 
-
 });
